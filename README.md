@@ -1,8 +1,6 @@
 # ICC 2019 WC prediction
 
-Predicting the winner of 2019 cricket world cup using random forest algorithm
-
-![WC Logo](wc.png)
+Predicting the winner of 2019 cricket world cup using AI.
 
 I have used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of ICC 2019 
 Cricket World Cup. 
